@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "shared",
+  "smartconnect-server",
+  "smartconnect-client"
+]
+resolver = "2"
